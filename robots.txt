@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakewoodwaterheaterco.com/sitemap.xml
